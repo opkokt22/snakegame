@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.game {
+    width: 100vw;
+    height: 100vh;
+    background-color: green;
+}
+.gameblock {
+    width: 10%;
+    height: 10%;
+    float: left;
+    background-color: purple;
+    border: 1px solid black;
+}
+.food {
+    background-color: red;
+}
+.snakebody {
+    background-color: green;
+}
